@@ -25,8 +25,9 @@
 23. Principal Component Analysis
 24. Linear Discriminant Analysis 
 25. Kernel PCA
-26. Model Selection 
-27. XGBoost
+26. K-Fold Cross Validation
+27. Grid Search
+28. XGBoost
 
 
 To download the libraries and dependencies: pip install -r requirements.txt 
