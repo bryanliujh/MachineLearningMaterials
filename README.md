@@ -22,3 +22,8 @@
 20. Natural Language Processing
 21. Artificial Neural Network
 22. Convolution Neural Network
+23. Principal Component Analysis
+24. Linear Discriminant Analysis 
+25. Kernel PCA
+26. Model Selection 
+27. XGBoost
