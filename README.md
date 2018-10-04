@@ -8,13 +8,13 @@
 6.  Decision Tree Regression
 7.  Random Forest Regression
 8.  Logistic Regression
-9.  K Nearest Neighbours Classifier
+9.  K-Nearest Neighbours Classifier
 10. Support Vector Machine
 11. Different Kernels for SVM
 12. Naive Bayes Classifier
 13. Decision Tree Classification
 14. Random Forest Classification
-15. K Means Clustering
+15. K-Means Clustering
 16. Agglomerative Hierarchical Clustering
 17. Apriori (Association Rule Learning)
 18. Upper Confidence Bound (Reinforcement Learning)
