@@ -27,3 +27,6 @@
 25. Kernel PCA
 26. Model Selection 
 27. XGBoost
+
+
+To download the libraries and dependencies: pip install -r requirements.txt 
